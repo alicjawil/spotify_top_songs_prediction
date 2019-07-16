@@ -110,7 +110,7 @@ print(metrics.classification_report(y_test, y_test_pred))
 ... 
 
 
-### Five different methods were used on Logistic Regression to improve results(after-preprocessing) : 
+### Different methods were used on Logistic Regression to improve results : 
 
 ![LR](LR.png)
 
@@ -151,7 +151,7 @@ plt.show()
 
 ... 
 
-### Five different methods were used on Naive Bayes to improve results(after-preprocessing) : 
+### Different methods were used on Naive Bayes to improve results : 
 
 ![gnb](gnb.png)
 
@@ -161,7 +161,7 @@ Not much improvement with different models from the original.
 
 Following similar code from above..^^ 
 
-### Five different methods were used on Decision Trees to improve results(after-preprocessing) 
+### Different methods were used on Decision Trees to improve results 
 
 ![dt](dt.png)
 
@@ -193,7 +193,7 @@ plt.show()
 Similarly to Decison Trees we performed feature reduction and gini impurity scores. 
 
 
-### Random Forest, Feature-reduced (Pre-processed) 
+### Random Forest, Feature-reduced 
 
 ![rf](rf.png)
 
